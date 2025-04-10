@@ -2,6 +2,13 @@
 
 A Databricks notebook for processing Amazon review datasets, handling various data formats and structures.
 
+## Data Source
+
+The data used in this project comes from the Amazon Reviews Dataset, available at:
+https://amazon-reviews-2023.github.io/
+
+This dataset contains product reviews and metadata from Amazon, spanning various product categories. The dataset is used for research purposes to analyze customer feedback, sentiment analysis, and product categorization.
+
 ## Features
 - Data ingestion from JSONL files
 - Cleaning and preprocessing
