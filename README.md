@@ -7,6 +7,10 @@ https://amazon-reviews-2023.github.io/
 
 This dataset contains product reviews and metadata from Amazon, spanning various product categories. The dataset is used for research purposes to analyze customer feedback, sentiment analysis, and product categorization.
 
+## Architecture
+![Amazon Data Processing Pipeline](pipeline_diagram.png)
+*Diagram of the Amazon Unified Data Processing Pipeline*
+
 ## Features
 - Data ingestion from JSONL files
 - Cleaning and preprocessing
