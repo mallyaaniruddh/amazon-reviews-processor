@@ -9,7 +9,7 @@ This dataset contains product reviews and metadata from Amazon, spanning various
 
 ## Pipeline Workflow
 ![Amazon Data Processing Pipeline](pipeline_diagram.png)
-*Diagram of the Amazon Unified Data Processing Pipeline*
+*Diagram of the Amazon Reviews + Meta Data Processing Pipeline*
 
 ## Features
 - Data ingestion from JSONL files
